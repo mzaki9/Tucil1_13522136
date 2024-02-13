@@ -6,11 +6,9 @@
 
 
 ## General Information
-Aplikasi ini didasrari oleh Cyberpunk 2077 Breach Protocol yang merupakan minigame meretas pada permainan video Cyberpunk 2077.
-Minigame ini merupakan simulasi peretasan jaringan local dari ICE (Intrusion Countermeasures
-Electronics) pada permainan Cyberpunk 2077. 
+This application is based on the Cyberpunk 2077 Breach Protocol, which is a hacking minigame in the video game Cyberpunk 2077. This minigame simulates the hacking of a local network's Intrusion Countermeasures Electronics (ICE) in the Cyberpunk 2077 game.
 
-Aplikasi ini dibuat dengan Algoritma Brute Force
+The application is created using the Brute Force Algorithm.
 
 ## Technologies Used
 - python - version 3.11.1
@@ -29,7 +27,7 @@ Aplikasi ini dibuat dengan Algoritma Brute Force
     ```
 
 ## Running Via Exe
-1. Go to bin/
-2. Run the breach.exe
-3. Select input via CLI or .txt (input .txt in test folder)
-
+1. Navigate to the bin/ directory.
+2. Execute the breach.exe file.
+3. Choose input via the command line interface (CLI) or use a .txt file (located in the test folder).
+4. Provide the file name without the extension.
